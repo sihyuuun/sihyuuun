@@ -1,9 +1,7 @@
 ## Hi there 👋 
 <p>
   I'm Sihyun Lee, a growing <b>front-end developer</b>. &nbsp;💻
-  <br/><br/>
-  🏫&nbsp; Soongsil Univ. College of Software <br/>
-  🏟️&nbsp; I like football (watching, not playing)
+  
 </p>
 <br/>
 
